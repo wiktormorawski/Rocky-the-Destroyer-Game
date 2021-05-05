@@ -4,3 +4,4 @@
 # Random acceleration and direction generated enemies.
 ![image](https://user-images.githubusercontent.com/73838589/117190366-9e4b9d80-addf-11eb-8ee2-da2dea1ed49a.png)
 # Highscore saved in file.
+include music
